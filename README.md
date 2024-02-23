@@ -13,7 +13,7 @@ EN. Operations of 'Insert, Delete, Update, View' in Python language with Microso
 > 
 > **yemekler_db.bak:** database
 >
-> **yemek.doc:** explanation
+> **x/yemek.docx:** explanation
 >
 ![1](x/2.jpg)
 ![2](x/1.jpg)
