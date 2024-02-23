@@ -12,3 +12,5 @@ EN. Operations of 'Insert, Delete, Update, View' in Python language with Microso
 > **yemek/base:** QT Creator's virtual files
 > 
 > **yemekler_db.bak:** database
+>
+> **yemek.doc:** explanation
